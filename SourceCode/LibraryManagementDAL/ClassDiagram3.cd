@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibraryManagementDAL.ChiTietPhieuTraDAL">
+    <Position X="2.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAABAAAAAgAAAAAAAAAAAAAABAAAgAAAAAAAAA=</HashCode>
+      <FileName>ChiTietPhieuTraDAL.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementDAL.HienThiSachDAL">
+    <Position X="7" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAgAAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>HienThiSachDAL.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementDAL.LoaiNhanVienDAL">
+    <Position X="0.5" Y="4.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAACEAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>LoaiNhanVienDAL.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementDAL.NhanVienDAL">
+    <Position X="4.75" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAAIAAAAgAAgAACAAAACEQEAEAAAAAAAAAAAA=</HashCode>
+      <FileName>NhanVienDAL.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementDAL.SachTraTreDAL">
+    <Position X="2.75" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SachTraTreDAL.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementDAL.ThamSoDAL">
+    <Position X="9.25" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAEAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ThamSoDAL.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementDAL.TheLoaiDAL">
+    <Position X="0.5" Y="12.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEABAAAAAAiAAIAAAIAQACEAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>TheLoaiDAL.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementDAL.TheLoaiSachDAL">
+    <Position X="2.75" Y="12.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAABAAAAAgAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
+      <FileName>TheLoaiSachDAL.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementDAL.TinhHinhMuonSachDAL">
+    <Position X="4.75" Y="12.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TinhHinhMuonSachDAL.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementDAL.TrangThaiDAL">
+    <Position X="7" Y="12.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEABEAAAAAiAAIAAAAAAACEAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>TrangThaiDAL.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

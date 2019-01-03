@@ -1,0 +1,10 @@
+C:\Users\HITONASI\Desktop\LibraryManagement\SourceCode\LibraryManagementDTO\bin\Release\LibraryManagementDTO.dll
+C:\Users\HITONASI\Desktop\LibraryManagement\SourceCode\LibraryManagementDTO\bin\Release\LibraryManagementDTO.pdb
+C:\Users\HITONASI\Desktop\LibraryManagement\SourceCode\LibraryManagementDTO\bin\Release\LibraryManagementDTO.xml
+C:\Users\HITONASI\Desktop\LibraryManagement\SourceCode\LibraryManagementDTO\obj\Release\LibraryManagementDTO.vbprojAssemblyReference.cache
+C:\Users\HITONASI\Desktop\LibraryManagement\SourceCode\LibraryManagementDTO\obj\Release\LibraryManagementDTO.Resources.resources
+C:\Users\HITONASI\Desktop\LibraryManagement\SourceCode\LibraryManagementDTO\obj\Release\LibraryManagementDTO.vbproj.GenerateResource.cache
+C:\Users\HITONASI\Desktop\LibraryManagement\SourceCode\LibraryManagementDTO\obj\Release\LibraryManagementDTO.vbproj.CoreCompileInputs.cache
+C:\Users\HITONASI\Desktop\LibraryManagement\SourceCode\LibraryManagementDTO\obj\Release\LibraryManagementDTO.dll
+C:\Users\HITONASI\Desktop\LibraryManagement\SourceCode\LibraryManagementDTO\obj\Release\LibraryManagementDTO.xml
+C:\Users\HITONASI\Desktop\LibraryManagement\SourceCode\LibraryManagementDTO\obj\Release\LibraryManagementDTO.pdb

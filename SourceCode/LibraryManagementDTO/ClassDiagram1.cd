@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibraryManagementDTO.HienThiSachDTO">
+    <Position X="0.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABEQAAAAAIAAAAAQAUAAAAQAAgAMAARAAAAgAIASIAA=</HashCode>
+      <FileName>HienThiSachDTO.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementDTO.LoaiNhanVienDTO">
+    <Position X="5.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAEAAAAAAAAAACAAAAAAACAAAAAA=</HashCode>
+      <FileName>LoaiNhanVienDTO.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementDTO.NhanVienDTO">
+    <Position X="11" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIkAABIAAAAAAAQAAAAAAAAAAAACAAAAAAAIAAAAAA=</HashCode>
+      <FileName>NhanVienDTO.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementDTO.NhaXuatBanDTO">
+    <Position X="0.5" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAgAAAAAAAAAAAAAAAAAIAAAAAAAAQA=</HashCode>
+      <FileName>NhaXuatBanDTO.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementDTO.SachTraTreDTO">
+    <Position X="11" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAEAAAABAAAAAAQAAAgAAAABAAAAAAAAAABA=</HashCode>
+      <FileName>SachTraTreDTO.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementDTO.ThamSoDTO">
+    <Position X="5.5" Y="9.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>EAAIAAIAEwAKAAIQAAAAEAACAAAQAgIABAAAgAAAAAA=</HashCode>
+      <FileName>ThamSoDTO.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementDTO.TheLoaiSachDTO">
+    <Position X="11" Y="9.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAQAAACAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>TheLoaiSachDTO.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementDTO.TinhHinhMuonSachDTO">
+    <Position X="0.5" Y="12.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAAAAAAAAAAQAAAAAAAAAAKAAABRA=</HashCode>
+      <FileName>TinhHinhMuonSachDTO.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryManagementDTO.TrangThaiDTO">
+    <Position X="3" Y="12.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAAAAAAAAAAAAQAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TrangThaiDTO.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
